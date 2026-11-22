@@ -1,0 +1,4 @@
+method,trials,test_budget,modeled_faults,mean_detected
+Random,24,8,12,3.042
+Greedy,24,8,12,8.000
+Bee colony,24,8,12,7.292
