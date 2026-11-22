@@ -1,0 +1,6 @@
+method,unsafe_cases,false_approvals,legitimate_cases,legitimate_allowed
+local,126,24,126,126
+revision,126,24,126,81
+fingerprint,126,12,126,33
+rulegap,126,0,126,18
+always_withhold,126,0,126,0
